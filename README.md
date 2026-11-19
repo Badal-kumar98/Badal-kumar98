@@ -1,13 +1,13 @@
-# Hi there, I'm Badal Kumar 👋
+# Badal Kumar
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E7490&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);React.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB;Building+Enterprise+CRMs+%26+High-Speed+Web+Apps;14%2B+Production+Client+Deployments)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://badal98-portfolio.netlify.app"><b>🌐 Live Portfolio</b></a> •
-  <a href="https://linkedin.com/in/badal-kumar-200b45324"><b>💼 LinkedIn</b></a> •
-  <a href="mailto:badalkumar4574@gmail.com"><b>📫 Email Me</b></a>
+  <a href="https://badal-kumar98.github.io/badal-portfolio/"><b>Live Portfolio</b></a> •
+  <a href="https://linkedin.com/in/badal-kumar-200b45324"><b>LinkedIn</b></a> •
+  <a href="mailto:badalkumar4574@gmail.com"><b>Email</b></a>
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Badal-kumar98&color=0e7490&style=flat-square&label=Profile+Views)](https://github.com/Badal-kumar98)
@@ -17,16 +17,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 **Full Stack Developer (MERN)** with 1.5+ years of hands-on experience building scalable web applications, multi-tenant enterprise CRMs, and high-conversion e-commerce platforms.
-- 🏢 Currently engineering high-impact client web platforms and internal business suites at **Koncept Software Solutions**, New Delhi.
-- ⚡ Experienced across the entire software lifecycle: translating client requirements into normalized MongoDB schemas, writing secure Node.js/Express REST APIs with JWT & RBAC, and building pixel-perfect React/Next.js/TypeScript interfaces.
-- 📈 Core focus on **95+ Google Lighthouse mobile performance**, WebSockets real-time communication, Agora audio/video SDK, and secure payment integrations (Razorpay, PayU).
+- Full Stack Developer (MERN) with 1.5+ years of production experience building scalable web applications, multi-tenant enterprise CRMs, and high-conversion e-commerce platforms.
+- Currently engineering high-impact client web platforms and business suites at Koncept Software Solutions, New Delhi.
+- Experienced across the complete engineering lifecycle: translating client requirements into normalized MongoDB schemas, writing secure Node.js/Express REST APIs with JWT & RBAC, and building pixel-perfect React/Next.js/TypeScript interfaces.
+- Core focus on 95+ Google Lighthouse mobile performance, WebSockets real-time communication, Agora audio/video SDK, and secure payment integrations (Razorpay, PayU).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Technical Skills
 
 <p align="center">
   <!-- Languages -->
@@ -66,7 +66,7 @@
 
 ---
 
-### 💼 Featured Enterprise CRMs & Core Products
+### Featured Enterprise CRMs & Core Products
 
 | Product | Tech Stack | Highlights | Live Link |
 | :--- | :--- | :--- | :--- |
@@ -77,22 +77,22 @@
 
 ---
 
-### 🌐 Featured Commercial Platforms & E-Commerce
+### Featured Commercial Platforms & E-Commerce
 
-- 🎁 **[Sugarbliss](https://sugarbliss.com.co)** — Bespoke luxury gifting e-commerce platform with an interactive polaroid/keepsake hamper builder, cart state, and Pan-India delivery slot logic.
-- 🚗 **[Drivora](https://drivora.co.in)** — Professional on-demand & monthly driver booking platform with real-time fare calculation, service tiers, and driver onboarding pipelines.
-- ⚖️ **[Legal Papers India](https://www.legalpapersindia.in)** — Customer portal for automated legal document drafting, affidavits, and online e-stamp paper fulfillment.
-- ⚡ **[Sanscriti Electric](https://sanscritielectric.com)** — Corporate portal showcasing commercial EV mobility solutions with interactive vehicle catalogs and dealer enquiry capture.
-- 🎙️ **[AlgoTipp](https://algotipp.com)** — International expert consultation platform with Agora video/audio streaming, WebSocket chat, and PayU payments.
-- 📚 **[NeerajBooks](https://www.neerajbooks.com)** — Academic e-commerce bookstore serving 10,000+ publications with PayU checkout and in-browser PDF reader.
-- 📖 **[Kitab Street](https://kitabstreet.com)** — Digital ebook storefront with instant download fulfillment and PayU payments.
-- 📦 **[ProcX](https://procx.pages.dev)** — Industrial B2B marketplace for wooden packaging with custom RFQ flows.
-- 🛒 **[Fresko](https://fresko.in)** — Hyperlocal grocery delivery web app featuring pincode-based serviceability checks and delivery time slots.
-- ⚖️ **[CaseStack](https://casestack.in)** — Case and hearing management system for lawyers with document uploads and court calendar.
+- **[Sugarbliss](https://sugarbliss.com.co)** — Bespoke luxury gifting e-commerce platform with an interactive polaroid/keepsake hamper builder, cart state, and Pan-India delivery slot logic.
+- **[Drivora](https://drivora.co.in)** — Professional on-demand & monthly driver booking platform with real-time fare calculation, service tiers, and driver onboarding pipelines.
+- **[Legal Papers India](https://www.legalpapersindia.in)** — Customer portal for automated legal document drafting, affidavits, and online e-stamp paper fulfillment.
+- **[Sanscriti Electric](https://sanscritielectric.com)** — Corporate portal showcasing commercial EV mobility solutions with interactive vehicle catalogs and dealer enquiry capture.
+- **[AlgoTipp](https://algotipp.com)** — International expert consultation platform with Agora video/audio streaming, WebSocket chat, and PayU payments.
+- **[NeerajBooks](https://www.neerajbooks.com)** — Academic e-commerce bookstore serving 10,000+ publications with PayU checkout and in-browser PDF reader.
+- **[Kitab Street](https://kitabstreet.com)** — Digital ebook storefront with instant download fulfillment and PayU payments.
+- **[ProcX](https://procx.pages.dev)** — Industrial B2B marketplace for wooden packaging with custom RFQ flows.
+- **[Fresko](https://fresko.in)** — Hyperlocal grocery delivery web app featuring pincode-based serviceability checks and delivery time slots.
+- **[CaseStack](https://casestack.in)** — Case and hearing management system for lawyers with document uploads and court calendar.
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Badal-kumar98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Badal's GitHub stats" height="165" />
@@ -101,13 +101,10 @@
 
 ---
 
-### 📬 Connect With Me
+### Connect
 
-- 💼 **LinkedIn:** [badal-kumar-200b45324](https://linkedin.com/in/badal-kumar-200b45324)
-- 🌐 **Portfolio:** [badal98-portfolio.netlify.app](https://badal98-portfolio.netlify.app)
-- 📧 **Email:** [badalkumar4574@gmail.com](mailto:badalkumar4574@gmail.com)
-- 📱 **Phone:** +91 98389 95780
-- 📍 **Location:** Delhi NCR, India
-
----
-*⭐️ From [Badal Kumar](https://github.com/Badal-kumar98)*
+- **LinkedIn:** [badal-kumar-200b45324](https://linkedin.com/in/badal-kumar-200b45324)
+- **Portfolio:** [badal-portfolio](https://badal-kumar98.github.io/badal-portfolio/)
+- **Email:** [badalkumar4574@gmail.com](mailto:badalkumar4574@gmail.com)
+- **Phone:** +91 98389 95780
+- **Location:** Delhi NCR, India
