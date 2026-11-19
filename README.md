@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E7490&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);React.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB;Building+Enterprise+CRMs+%26+High-Speed+Web+Apps;14%2B+Production+Client+Deployments)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://badal-kumar98.github.io/badal-portfolio/"><b>Live Portfolio</b></a> •
+  <a href="https://badal-kumar98.github.io/badal-portfolio/"><b>Live Portfolio 1 (GSAP)</b></a> •
+  <a href="https://badal-kumar98.github.io/badal-portfolio-1/"><b>Live Portfolio 2 (React 19)</b></a> •
+  <a href="https://badal-kumar98.github.io/badal-portfolio/Badal-Kumar-Resume.pdf"><b>Resume (PDF)</b></a> •
   <a href="https://linkedin.com/in/badal-kumar-200b45324"><b>LinkedIn</b></a> •
   <a href="mailto:badalkumar4574@gmail.com"><b>Email</b></a>
 </p>
@@ -104,7 +106,9 @@
 ### Connect
 
 - **LinkedIn:** [badal-kumar-200b45324](https://linkedin.com/in/badal-kumar-200b45324)
-- **Portfolio:** [badal-portfolio](https://badal-kumar98.github.io/badal-portfolio/)
+- **Portfolio 1 (GSAP / Creative UI):** [badal-portfolio](https://badal-kumar98.github.io/badal-portfolio/)
+- **Portfolio 2 (React 19 / Framer Motion / Lenis):** [badal-portfolio-1](https://badal-kumar98.github.io/badal-portfolio-1/)
+- **Direct Resume:** [Badal-Kumar-Resume.pdf](https://badal-kumar98.github.io/badal-portfolio/Badal-Kumar-Resume.pdf)
 - **Email:** [badalkumar4574@gmail.com](mailto:badalkumar4574@gmail.com)
 - **Phone:** +91 98389 95780
 - **Location:** Delhi NCR, India
