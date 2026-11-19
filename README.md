@@ -68,14 +68,19 @@
 
 ---
 
-### Featured Enterprise CRMs & Core Products
+### Enterprise CRMs & Internal Operations Platforms (Role-Protected B2B)
 
-| Product | Tech Stack | Highlights | Live Link |
+> Note for Technical Interviewers: Enterprise CRM systems below are confidential internal business portals engineered with multi-tenant architecture and Role-Based Access Control (RBAC). In accordance with enterprise client confidentiality, live access requires authenticated staff credentials. Code architecture, database schema models, and sandbox walkthroughs are demonstrated during technical interviews.
+
+| Product | Tech Stack | Highlights | Portal Access |
 | :--- | :--- | :--- | :--- |
-| **Munafa CRM** | React, TypeScript, Node.js, Express, MongoDB, Redux Toolkit, PayU | Multi-tenant SaaS CRM & GST billing suite with 10+ modules, tenant-aware routing, dynamic PDF invoices, and automated subscription gating. | [Visit Live](https://koncept-invoice.pages.dev) |
-| **Sanscriti Electric CRM** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Dealership operations portal for commercial EVs: spare parts inventory, warranty verification by serial number, and dealer order tracking. | [Visit Portal](https://sanscriti.pages.dev/login) |
-| **Crystalion Engineers CRM** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Industrial quotation calculation engine with automated GST/margin breakdown, RFP tracking, and AMC service renewal alerts. | [Visit Portal](https://crystalionengineers.pages.dev/login) |
-| **Neeravi Solutions CRM** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Centralized lead ingestion pipeline, communication history timeline, stage-wise deal tracking, and automated task delegation. | [Visit Portal](https://neeravi-crm.pages.dev/login) |
+| **Munafa CRM** | React, TypeScript, Node.js, Express, MongoDB, Redux Toolkit, PayU | Multi-tenant SaaS CRM & GST billing suite with 10+ operational modules, tenant-aware dynamic routing (/:type/*), automated PDF invoice generation, and PayU subscription billing. | [Portal Login](https://koncept-invoice.pages.dev) |
+| **Sanscriti Electric CRM** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Dealership operations portal for commercial EVs: spare parts inventory, warranty verification by serial number, technician job cards, and dealer order tracking. | [Portal Login](https://sanscriti.pages.dev/login) |
+| **Crystalion Engineers CRM** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Industrial quotation calculation engine with automated GST/margin breakdown, technical RFP tracking, technician assignments, and AMC service renewal alerts. | [Portal Login](https://crystalionengineers.pages.dev/login) |
+| **Neeravi Solutions CRM** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Centralized lead ingestion pipeline, communication history timeline, stage-wise deal tracking, Proforma Invoice (PI) generator, and automated task delegation. | [Portal Login](https://neeravi-crm.pages.dev/login) |
+| **CaseStack** | React.js, TypeScript, Node.js, Express, MongoDB, Tailwind CSS | Smart case diary and hearing management portal for law firms: court calendar indexing, client history timelines, and secure document vault. | [Portal Login](https://casestack.in) |
+| **UDCD Legal Diary** | React.js, Cloudflare Pages, RESTful APIs, Tailwind CSS | Court hearing management system for advocates: daily hearing reminders (/today-reminders), court scraper telemetry, and VC link routing. | [Portal Login](https://udcd-android-app.pages.dev) |
+| **VRD CRM** | React.js, Node.js, Express.js, MongoDB, Tailwind CSS | Enterprise operations suite with bulk employee Excel/CSV ingestion via SheetJS and automated lead-to-tax-invoice creation workflows. | [Portal Login](https://vrd-crm.pages.dev) |
 
 ---
 
@@ -88,9 +93,11 @@
 - **[AlgoTipp](https://algotipp.com)** — International expert consultation platform with Agora video/audio streaming, WebSocket chat, and PayU payments.
 - **[NeerajBooks](https://www.neerajbooks.com)** — Academic e-commerce bookstore serving 10,000+ publications with PayU checkout and in-browser PDF reader.
 - **[Kitab Street](https://kitabstreet.com)** — Digital ebook storefront with instant download fulfillment and PayU payments.
+- **[Tricity Engineers](https://www.tricityengineers.in/)** — Sustainable engineering and industrial EPC corporate portal with project milestone timelines and customized RFP assessment submission flows.
+- **[United Horeca](https://unitedhoreca.com/)** — Commercial kitchen engineering solutions portal for hotels and restaurants with equipment catalog and instant RFQ quotation generation.
+- **[United Infra & Power](https://unitedinfrapower.in/)** — Industrial power and infrastructure EPC showcase executing complex nationwide infrastructure and power projects.
 - **[ProcX](https://procx.pages.dev)** — Industrial B2B marketplace for wooden packaging with custom RFQ flows.
 - **[Fresko](https://fresko.in)** — Hyperlocal grocery delivery web app featuring pincode-based serviceability checks and delivery time slots.
-- **[CaseStack](https://casestack.in)** — Case and hearing management system for lawyers with document uploads and court calendar.
 
 ---
 
